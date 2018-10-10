@@ -1,0 +1,21 @@
+body {
+  background-color: #21c3ff;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 60pt;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 40pt;
+}
+p {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 18pt;
+}
