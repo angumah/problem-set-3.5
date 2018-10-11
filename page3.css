@@ -16,3 +16,9 @@ p {
 li {
   text-align: center;
 }
+h2 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 30pt;
+}

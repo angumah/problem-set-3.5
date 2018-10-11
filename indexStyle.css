@@ -19,3 +19,12 @@ h4 {
   margin-right: auto;
   width: 100%;
 }
+a {
+  text-align: center;
+  color: orange;
+  font-family: fantasy;
+  font-size: 15pt;
+}
+NavBar {
+  border: 1px;
+}
