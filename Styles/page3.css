@@ -22,3 +22,14 @@ h2 {
   font-family: fantasy;
   font-size: 30pt;
 }
+ul {
+  list-style: none;
+}
+ol {
+  list-style: none;
+}
+#pg3meme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

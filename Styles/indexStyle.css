@@ -25,6 +25,8 @@ a {
   font-family: fantasy;
   font-size: 15pt;
 }
-NavBar {
-  border: 1px;
+#AIT{
+  text-align: center;
+  color: blue;
+  font-size: 10pt;
 }
