@@ -1,0 +1,11 @@
+body {
+  background-color: #21c3ff;
+}
+h1 {
+  color: white;
+  font-family: fantasy;
+  font-size: 60pt;
+}
+#Table1 {
+  border: 1px;
+}

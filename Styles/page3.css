@@ -1,0 +1,35 @@
+body {
+  background-color: #21c3ff;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 60pt;
+}
+p {
+  text-align: center;
+}
+#HowTo {
+  text-align: center;
+}
+li {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  font-size: 30pt;
+}
+ul {
+  list-style: none;
+}
+ol {
+  list-style: none;
+}
+#pg3meme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
