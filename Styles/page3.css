@@ -28,6 +28,12 @@ ul {
 ol {
   list-style: none;
 }
+a {
+  text-align: center;
+  color: orange;
+  font-family: fantasy;
+  font-size: 15pt;
+}
 #pg3meme {
   display: block;
   margin-left: auto;

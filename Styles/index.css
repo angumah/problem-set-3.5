@@ -30,3 +30,7 @@ a {
   color: blue;
   font-size: 10pt;
 }
+#NavBar {
+  border: 1px;
+  border-color: black;
+}

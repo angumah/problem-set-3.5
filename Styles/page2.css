@@ -9,3 +9,9 @@ h1 {
 #Table1 {
   border: 1px;
 }
+a {
+  text-align: center;
+  color: orange;
+  font-family: fantasy;
+  font-size: 15pt;
+}

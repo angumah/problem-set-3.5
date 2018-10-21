@@ -19,3 +19,9 @@ p {
   font-family: fantasy;
   font-size: 18pt;
 }
+a {
+  text-align: center;
+  color: orange;
+  font-family: fantasy;
+  font-size: 15pt;
+}
