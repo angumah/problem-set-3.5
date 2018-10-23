@@ -37,9 +37,18 @@ li {
   color: blue;
 }
 #pg3meme {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+position: relative;
+  height: 200px;
+  width: 200px;
+  left:200px;
+  bottom: 250px;
+}
+#trollface {
+position: relative;
+  height: 150px;
+  width: 250px;
+  left:250px;
+  bottom: 250px;
 }
 #footer {
   font-size: 10pt;
@@ -127,4 +136,8 @@ h2.button {
 h2 {
   font-size: 15px;
   font-family:sans-serif;
+}
+#term {
+  width: 40%;
+  padding: 25px;
 }
