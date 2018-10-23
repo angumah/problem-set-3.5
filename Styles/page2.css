@@ -39,7 +39,7 @@ p {
 #table1 {
   border-collapse: collapse;
 }
-table, th, td {
+table[id="table1"], th, td {
   border: 1px solid black;
   border-color: purple;
   border-radius: 20px;
