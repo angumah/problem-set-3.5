@@ -1,41 +1,102 @@
 body {
-  background-color: #21c3ff;
+  background-color: #66e8ff;
 }
-h1 {
+* {
   text-align: center;
   color: white;
   font-family: fantasy;
-  font-size: 60pt;
+  font-size: 20pt;
 }
 p {
   text-align: center;
 }
-#HowTo {
-  text-align: center;
-}
-li {
-  text-align: center;
-}
-h2 {
-  text-align: center;
-  color: white;
-  font-family: fantasy;
-  font-size: 30pt;
-}
 ul {
+  text-align: center;
   list-style: none;
 }
 ol {
   list-style: none;
 }
-a {
+li {
+  font-family: monospace;
+  color: #2ac137;
+  text-align: center;
+  font-size: 15pt;
+}
+.NavBar {
   text-align: center;
   color: orange;
   font-family: fantasy;
-  font-size: 15pt;
+  font-size: 12pt;
+}
+.NavBar:hover{
+  color: blue;
 }
 #pg3meme {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+#footer {
+  font-size: 10pt;
+}
+#AIT{
+  font-size: 10pt;
+}
+#AIT:hover {
+  color: blue;
+}
+#email{
+  font-size: 10pt;
+}
+#email:hover {
+  color: blue;
+}
+.info {
+  font-family: monospace;
+  color: #2ac137;
+  text-align: center;
+  font-size: 15pt;
+}
+a[href="https://www.instagram.com/"] {
+  font-family: monospace;
+  font-size: 15pt;
+}
+a[href="https://www.instagram.com/"]:hover {
+  color: blue;
+}
+#Reddit{
+  font-family: monospace;
+  font-size: 15pt;
+}
+#Reddit:hover {
+  color: blue;
+}
+#Youtube{
+  font-family: monospace;
+  font-size: 15pt;
+}
+#Youtube:hover {
+  color: blue;
+}
+h3 {
+  font-size: 10pt;
+  font-family: sans-serif;
+  color: black;
+}
+h3.round span{
+    border: 4px solid #fc463c;
+    border-radius: 12px;
+    background-color: #ff928c;
+}
+h3.button:hover {
+  background-color: #ffd1ce;
+}
+
+h3.button {
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #ba0000;
+  background-color: #fc463c;
+  height: 20px;
 }
