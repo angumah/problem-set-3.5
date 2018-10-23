@@ -7,9 +7,11 @@ body {
   font-size: 20pt;
 }
 h1 {
+  margin-left: 30px;
   color: white;
   font-family: fantasy;
   font-size: 20pt;
+  padding: 0px 25px;
 }
 .NavBar {
   text-align: center;
@@ -66,4 +68,10 @@ h3.button {
   border-color: #ba0000;
   background-color: #fc463c;
   height: 20px;
+}
+div {
+  width: 100%;
+  padding: 25px;
+  box-sizing: border-box;
+  margin-left: 15px;
 }
