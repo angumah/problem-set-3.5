@@ -41,7 +41,7 @@ position: relative;
   height: 200px;
   width: 200px;
   left:200px;
-  bottom: 250px;
+  bottom: 200px;
 }
 #trollface {
 position: relative;
@@ -140,4 +140,8 @@ h2 {
 #term {
   width: 40%;
   padding: 25px;
+  font-family: monospace;
+  color: #2ac137;
+  text-align: center;
+  font-size: 15pt;
 }
