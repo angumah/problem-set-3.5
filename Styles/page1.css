@@ -15,12 +15,9 @@ h1 {
 }
 .NavBar {
   text-align: center;
-  color: orange;
+  text-decoration: none;
   font-family: fantasy;
   font-size: 12pt;
-}
-.NavBar:hover{
-  color: blue;
 }
 #footer {
   font-size: 10pt;
@@ -68,6 +65,7 @@ h3.button {
   border-color: #ba0000;
   background-color: #fc463c;
   height: 20px;
+  text-decoration: none;
 }
 div {
   width: 100%;

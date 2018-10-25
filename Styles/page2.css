@@ -8,12 +8,9 @@ body {
 }
 .NavBar {
   text-align: center;
-  color: orange;
+  text-decoration: none;
   font-family: fantasy;
   font-size: 12pt;
-}
-.NavBar:hover{
-  color: blue;
 }
 h1 {
   font-size: 20pt;

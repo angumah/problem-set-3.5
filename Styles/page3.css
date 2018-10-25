@@ -29,12 +29,9 @@ li {
 }
 .NavBar {
   text-align: center;
-  color: orange;
+  text-decoration: none;
   font-family: fantasy;
   font-size: 12pt;
-}
-.NavBar:hover{
-  color: blue;
 }
 #pg3meme {
 position: relative;
@@ -82,6 +79,7 @@ a[href="https://www.instagram.com/"]:hover {
 #Reddit{
   font-family: monospace;
   font-size: 15pt;
+  text-decoration: none;
 }
 #Reddit:hover {
   color: blue;
@@ -89,8 +87,33 @@ a[href="https://www.instagram.com/"]:hover {
 #Youtube{
   font-family: monospace;
   font-size: 15pt;
+  text-decoration: none;
 }
 #Youtube:hover {
+  color: blue;
+}
+#Instagram{
+  font-family: monospace;
+  font-size: 15pt;
+  text-decoration: none;
+}
+#Instagram:hover {
+  color: blue;
+}
+#TikTok{
+  font-family: monospace;
+  font-size: 15pt;
+  text-decoration: none;
+}
+#TikTok:hover {
+  color: blue;
+}
+#gag {
+  font-family: monospace;
+  font-size: 15pt;
+  text-decoration: none;
+}
+#gag:hover {
   color: blue;
 }
 h3 {
@@ -128,7 +151,7 @@ h2.button:hover {
 
 h2.button {
   border-style: solid;
-  border-radius: 12px;
+  b,,,order-radius: 12px;
   border-color: #023944;
   background-color: #1da0ba;
   height: 20px;

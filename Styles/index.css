@@ -25,12 +25,9 @@ h4 {
 }
 .NavBar {
   text-align: center;
-  color: orange;
+  text-decoration: none;
   font-family: fantasy;
   font-size: 12pt;
-}
-.NavBar:hover{
-  color: blue;
 }
 #footer {
   font-size: 10pt;
